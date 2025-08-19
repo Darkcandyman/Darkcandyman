@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Darkcandyman
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning python programming language 
-- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me darkcandyman538@gmail.com
